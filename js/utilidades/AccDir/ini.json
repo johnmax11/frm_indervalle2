@@ -1,0 +1,20 @@
+{
+    "root":[
+        {
+            "sys":
+                {
+                    "title":"Colmena de ebano",
+                    "url":"http://localhost/colmenaebano/index.php?module=Home&action=Home",
+                    "imagen":""
+                }
+        },
+        {
+            "sys":
+                {
+                    "title":"Coma y Punto",
+                    "url":"http://localhost/ventadirecta/index.php?module=Home&action=Home",
+                    "imagen":""
+                }
+        }
+    ]
+}

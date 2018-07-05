@@ -1,0 +1,12 @@
+[02-Jul-2014 13:51:52 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 492
+[02-Jul-2014 13:53:54 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 492
+[02-Jul-2014 13:54:04 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 492
+[02-Jul-2014 13:54:20 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 492
+[02-Jul-2014 13:55:47 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 492
+[02-Jul-2014 13:56:15 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 576
+[02-Jul-2014 13:56:45 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 576
+[02-Jul-2014 13:57:29 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 576
+[02-Jul-2014 13:58:34 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 576
+[03-Jul-2014 08:14:13 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 555
+[10-Jul-2014 17:06:46 America/Chicago] PHP Fatal error:  Class 'utilidades' not found in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 1007
+[10-Jul-2014 17:07:08 America/Chicago] PHP Fatal error:  Class 'utilidades' not found in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 1007

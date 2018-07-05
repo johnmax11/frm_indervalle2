@@ -1,0 +1,157 @@
+[26-May-2014 15:29:17 America/Chicago] PHP Fatal error:  Call to undefined method vo_usuarios::get_empresas_oficinas_id() in /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php on line 1
+[26-May-2014 15:30:09 America/Chicago] PHP Fatal error:  Call to undefined method vo_usuarios::get_empresas_id() in /home/amadaws/public_html/sysgdata/aplication/utils/utilidades.php(218) : eval()'d code on line 1
+[26-May-2014 15:33:05 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 83
+[26-May-2014 15:33:05 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[26-May-2014 15:33:05 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[26-May-2014 15:33:05 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[26-May-2014 15:33:06 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception: ---> dao_empresas_oficinas_usuarios::select_rows ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>Unknown column 'admin' in 'where clause'&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre> 
+                  SELECT 
+               
+                 id,empresas_id,empresas_oficinas_id,usuarios_id,creado_por,fecha_creacion,modificado_por,fecha_modificacion FROM     empresas_oficinas_usuarios  WHERE 1=1  AND usuarios_id = admin</pre>
+' in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_empresas_oficinas_usuarios.php:48
+Stack trace:
+#0 /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php(1): dao_empresas_oficinas_usuarios->select_rows(Object(vo_empresas_oficinas_usuarios))
+#1 {main}
+  thrown in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_empresas_oficinas_usuarios.php on line 48
+[26-May-2014 15:35:36 America/Chicago] PHP Notice:  Undefined variable: i in /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php on line 1
+[26-May-2014 15:37:25 America/Chicago] PHP Notice:  Undefined variable: i in /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php on line 1
+[26-May-2014 15:37:54 America/Chicago] PHP Notice:  Undefined variable: i in /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php on line 1
+[26-May-2014 15:43:19 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 83
+[26-May-2014 15:43:19 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[26-May-2014 15:43:19 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[26-May-2014 15:43:19 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[26-May-2014 15:43:19 America/Chicago] PHP Notice:  Undefined variable: mail in /home/amadaws/public_html/sysgdata/aplication/utils/mail_envios.php on line 24
+[26-May-2014 15:43:19 America/Chicago] PHP Fatal error:  Call to a member function IsSMTP() on a non-object in /home/amadaws/public_html/sysgdata/aplication/utils/mail_envios.php on line 24
+[26-May-2014 15:44:07 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 83
+[26-May-2014 15:44:07 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[26-May-2014 15:44:07 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[26-May-2014 15:44:07 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[26-May-2014 15:44:08 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception: ---> dao_empresas_oficinas_usuarios::select_rows ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>Unknown column 'asde' in 'where clause'&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre> 
+                  SELECT 
+               
+                 id,empresas_id,empresas_oficinas_id,usuarios_id,creado_por,fecha_creacion,modificado_por,fecha_modificacion FROM     empresas_oficinas_usuarios  WHERE 1=1  AND usuarios_id = asde</pre>
+' in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_empresas_oficinas_usuarios.php:48
+Stack trace:
+#0 /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php(1): dao_empresas_oficinas_usuarios->select_rows(Object(vo_empresas_oficinas_usuarios))
+#1 {main}
+  thrown in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_empresas_oficinas_usuarios.php on line 48
+[26-May-2014 15:46:08 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 83
+[26-May-2014 15:46:08 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[26-May-2014 15:46:08 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[26-May-2014 15:46:08 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[26-May-2014 15:46:09 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception: ---> dao_empresas_oficinas_usuarios::select_rows ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>Unknown column 'asde' in 'where clause'&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre> 
+                  SELECT 
+               
+                 id,empresas_id,empresas_oficinas_id,usuarios_id,creado_por,fecha_creacion,modificado_por,fecha_modificacion FROM     empresas_oficinas_usuarios  WHERE 1=1  AND usuarios_id = asde</pre>
+' in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_empresas_oficinas_usuarios.php:48
+Stack trace:
+#0 /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php(1): dao_empresas_oficinas_usuarios->select_rows(Object(vo_empresas_oficinas_usuarios))
+#1 {main}
+  thrown in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_empresas_oficinas_usuarios.php on line 48
+[26-May-2014 15:48:45 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 83
+[26-May-2014 15:48:46 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[26-May-2014 15:48:46 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[26-May-2014 15:48:46 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[26-May-2014 15:48:46 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception: ---> dao_empresas_oficinas_usuarios::select_rows ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>Unknown column 'asde' in 'where clause'&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre> 
+                  SELECT 
+               
+                 id,empresas_id,empresas_oficinas_id,usuarios_id,creado_por,fecha_creacion,modificado_por,fecha_modificacion FROM     empresas_oficinas_usuarios  WHERE 1=1  AND usuarios_id = asde</pre>
+' in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_empresas_oficinas_usuarios.php:48
+Stack trace:
+#0 /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php(1): dao_empresas_oficinas_usuarios->select_rows(Object(vo_empresas_oficinas_usuarios))
+#1 {main}
+  thrown in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_empresas_oficinas_usuarios.php on line 48
+[26-May-2014 15:50:58 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 83
+[26-May-2014 15:50:58 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[26-May-2014 15:50:58 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[26-May-2014 15:50:58 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[26-May-2014 15:50:58 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception: ---> dao_empresas_oficinas_usuarios::select_rows ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>Unknown column 'asde' in 'where clause'&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre> 
+                  SELECT 
+               
+                 id,empresas_id,empresas_oficinas_id,usuarios_id,creado_por,fecha_creacion,modificado_por,fecha_modificacion FROM     empresas_oficinas_usuarios  WHERE 1=1  AND usuarios_id = asde</pre>
+' in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_empresas_oficinas_usuarios.php:48
+Stack trace:
+#0 /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php(1): dao_empresas_oficinas_usuarios->select_rows(Object(vo_empresas_oficinas_usuarios))
+#1 {main}
+  thrown in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_empresas_oficinas_usuarios.php on line 48
+[26-May-2014 15:53:57 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 83
+[26-May-2014 15:53:57 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[26-May-2014 15:53:57 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[26-May-2014 15:53:57 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[26-May-2014 15:53:58 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception: ---> dao_empresas_oficinas_usuarios::select_rows ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>Unknown column 'asde' in 'where clause'&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre> 
+                  SELECT 
+               
+                 id,empresas_id,empresas_oficinas_id,usuarios_id,creado_por,fecha_creacion,modificado_por,fecha_modificacion FROM     empresas_oficinas_usuarios  WHERE 1=1  AND usuarios_id = asde</pre>
+' in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_empresas_oficinas_usuarios.php:48
+Stack trace:
+#0 /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php(1): dao_empresas_oficinas_usuarios->select_rows(Object(vo_empresas_oficinas_usuarios))
+#1 {main}
+  thrown in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_empresas_oficinas_usuarios.php on line 48
+[26-May-2014 15:56:33 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 83
+[26-May-2014 15:56:33 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[26-May-2014 15:56:33 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[26-May-2014 15:56:33 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[26-May-2014 15:56:34 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception: ---> dao_empresas_oficinas_usuarios::select_rows ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>Unknown column 'asde' in 'where clause'&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre> 
+                  SELECT 
+               
+                 id,empresas_id,empresas_oficinas_id,usuarios_id,creado_por,fecha_creacion,modificado_por,fecha_modificacion FROM     empresas_oficinas_usuarios  WHERE 1=1  AND usuarios_id = asde</pre>
+' in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_empresas_oficinas_usuarios.php:48
+Stack trace:
+#0 /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php(1): dao_empresas_oficinas_usuarios->select_rows(Object(vo_empresas_oficinas_usuarios))
+#1 {main}
+  thrown in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_empresas_oficinas_usuarios.php on line 48
+[28-May-2014 09:29:40 America/Chicago] PHP Notice:  Undefined index: txtUser in /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php on line 1
+[28-May-2014 09:29:40 America/Chicago] PHP Notice:  Undefined index: txtUser in /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php on line 1
+[28-May-2014 09:29:40 America/Chicago] PHP Notice:  Undefined index: txtPass in /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php on line 1
+[28-May-2014 10:08:55 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php:1) in /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php on line 6
+[28-May-2014 10:09:00 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php:1) in /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php on line 6
+[28-May-2014 10:10:32 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php:1) in /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php on line 6
+[28-May-2014 10:10:32 America/Chicago] PHP Notice:  Undefined index: txtUser in /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php on line 63
+[28-May-2014 10:10:32 America/Chicago] PHP Notice:  Undefined index: txtUser in /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php on line 75
+[28-May-2014 10:10:32 America/Chicago] PHP Notice:  Undefined index: txtPass in /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php on line 75
+[28-May-2014 10:10:49 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php:1) in /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php on line 6
+[28-May-2014 10:10:49 America/Chicago] PHP Notice:  Undefined index: txtUser in /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php on line 63
+[28-May-2014 10:10:49 America/Chicago] PHP Notice:  Undefined index: txtUser in /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php on line 75
+[28-May-2014 10:10:49 America/Chicago] PHP Notice:  Undefined index: txtPass in /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php on line 75
+[28-May-2014 10:10:56 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php:1) in /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php on line 6
+[28-May-2014 10:10:56 America/Chicago] PHP Notice:  Undefined index: txtUser in /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php on line 63
+[28-May-2014 10:10:56 America/Chicago] PHP Notice:  Undefined index: txtUser in /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php on line 75
+[28-May-2014 10:10:56 America/Chicago] PHP Notice:  Undefined index: txtPass in /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php on line 75
+[28-May-2014 10:12:05 America/Chicago] PHP Notice:  Undefined index: txtUser in /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php on line 62
+[28-May-2014 10:12:05 America/Chicago] PHP Notice:  Undefined index: txtUser in /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php on line 74
+[28-May-2014 10:12:05 America/Chicago] PHP Notice:  Undefined index: txtPass in /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php on line 74
+[29-May-2014 12:03:36 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 83
+[29-May-2014 12:03:36 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[29-May-2014 12:03:36 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[29-May-2014 12:03:36 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[29-May-2014 12:03:36 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[29-May-2014 12:03:36 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[29-May-2014 12:03:38 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception ---> dao_usuarios::update_rows ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>Cannot add or update a child row: a foreign key constraint fails (`amadaws_sysgdata`.`usuarios_auditorias`, CONSTRAINT `usuarios_auditorias_ibfk_2` FOREIGN KEY (`creado_por`) REFERENCES `usuarios` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre> INSERT INTO usuarios_auditorias (  parent_id, columna, before_value, after_value, creado_por, fecha_creacion ) VALUES( 1,'ultimo_ingreso','2014-05-28 15:26:36','2014-05-29 12:03:36',-1,'2014-05-29: :12:03:36' )</pre>
+' in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_usuarios.php:64
+Stack trace:
+#0 /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php(113): dao_usuarios->update_rows(Object(vo_usuarios))
+#1 {main}
+  thrown in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_usuarios.php on line 64
+[29-May-2014 12:06:32 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 83
+[29-May-2014 12:06:32 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[29-May-2014 12:06:32 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[29-May-2014 12:06:32 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[29-May-2014 12:06:32 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[29-May-2014 12:06:32 America/Chicago] PHP Notice:  Undefined index: CONFIG_USER in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 53
+[29-May-2014 12:06:33 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception ---> dao_usuarios::update_rows ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>Cannot add or update a child row: a foreign key constraint fails (`amadaws_sysgdata`.`usuarios_auditorias`, CONSTRAINT `usuarios_auditorias_ibfk_2` FOREIGN KEY (`creado_por`) REFERENCES `usuarios` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre> INSERT INTO usuarios_auditorias (  parent_id, columna, before_value, after_value, creado_por, fecha_creacion ) VALUES( 1,'ultimo_ingreso','2014-05-29 12:03:36','2014-05-29 12:06:32',-1,'2014-05-29: :12:06:32' )</pre>
+' in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_usuarios.php:64
+Stack trace:
+#0 /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php(113): dao_usuarios->update_rows(Object(vo_usuarios))
+#1 {main}
+  thrown in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_usuarios.php on line 64
+[29-May-2014 12:08:26 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception ---> dao_usuarios::update_rows ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>Cannot add or update a child row: a foreign key constraint fails (`amadaws_sysgdata`.`usuarios_auditorias`, CONSTRAINT `usuarios_auditorias_ibfk_2` FOREIGN KEY (`creado_por`) REFERENCES `usuarios` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre> INSERT INTO usuarios_auditorias (  parent_id, columna, before_value, after_value, creado_por, fecha_creacion ) VALUES( 1,'ultimo_ingreso','2014-05-29 12:06:32','2014-05-29 12:08:25',-1,'2014-05-29: :12:08:25' )</pre>
+' in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_usuarios.php:64
+Stack trace:
+#0 /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php(113): dao_usuarios->update_rows(Object(vo_usuarios))
+#1 {main}
+  thrown in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_usuarios.php on line 64
+[02-Jun-2014 21:47:06 America/Chicago] PHP Notice:  Undefined index: selOficina in /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php on line 94
+[26-Jun-2014 15:06:31 America/Chicago] PHP Notice:  Undefined index: selOficina in /home/amadaws/public_html/sysgdata/aplication/control/Usuarios/conLogin.php on line 94
+[11-Jul-2014 14:12:26 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 76 bytes) in /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php on line 74
+[11-Jul-2014 14:13:40 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 76 bytes) in /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php on line 74
+[11-Jul-2014 14:43:59 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 76 bytes) in /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php on line 74

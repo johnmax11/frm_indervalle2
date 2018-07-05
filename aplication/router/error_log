@@ -1,0 +1,970 @@
+[27-May-2014 08:54:55 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/amadaws/public_html/sysgdata/aplication/views/Utils/utiCerrarSession.php on line 7
+[27-May-2014 08:54:55 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amadaws/public_html/sysgdata/aplication/views/Utils/utiCerrarSession.php:7) in /home/amadaws/public_html/sysgdata/aplication/views/Utils/utiCerrarSession.php on line 12
+[27-May-2014 08:54:55 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home/amadaws/public_html/sysgdata/aplication/router/index.php on line 9
+[27-May-2014 08:54:55 America/Chicago] PHP Warning:  require_once(/aplication/utils/utiSetVarSession.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/amadaws/public_html/sysgdata/aplication/router/index.php on line 9
+[27-May-2014 08:54:55 America/Chicago] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/aplication/utils/utiSetVarSession.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/amadaws/public_html/sysgdata/aplication/router/index.php on line 9
+[27-May-2014 09:27:11 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/amadaws/public_html/sysgdata/aplication/views/Utils/utiCerrarSession.php on line 7
+[27-May-2014 09:27:11 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amadaws/public_html/sysgdata/aplication/views/Utils/utiCerrarSession.php:7) in /home/amadaws/public_html/sysgdata/aplication/views/Utils/utiCerrarSession.php on line 12
+[27-May-2014 09:27:11 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home/amadaws/public_html/sysgdata/aplication/router/index.php on line 9
+[27-May-2014 09:27:11 America/Chicago] PHP Warning:  require_once(/aplication/utils/utiSetVarSession.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/amadaws/public_html/sysgdata/aplication/router/index.php on line 9
+[27-May-2014 09:27:11 America/Chicago] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/aplication/utils/utiSetVarSession.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/amadaws/public_html/sysgdata/aplication/router/index.php on line 9
+[27-May-2014 09:35:24 America/Chicago] PHP Notice:  Undefined index: CONFIG_SITE in /home/amadaws/public_html/sysgdata/aplication/router/index.php on line 8
+[27-May-2014 09:35:24 America/Chicago] PHP Warning:  require_once(/aplication/views/Utils/utiVerificaInicioSession.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/amadaws/public_html/sysgdata/aplication/router/index.php on line 8
+[27-May-2014 09:35:24 America/Chicago] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/aplication/views/Utils/utiVerificaInicioSession.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/amadaws/public_html/sysgdata/aplication/router/index.php on line 8
+[27-May-2014 09:36:55 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/amadaws/public_html/sysgdata/aplication/views/Utils/utiCerrarSession.php on line 7
+[27-May-2014 09:36:55 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amadaws/public_html/sysgdata/aplication/router/index.php:7) in /home/amadaws/public_html/sysgdata/aplication/views/Utils/utiCerrarSession.php on line 12
+[27-May-2014 09:36:55 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home/amadaws/public_html/sysgdata/aplication/router/index.php on line 9
+[27-May-2014 09:36:55 America/Chicago] PHP Warning:  require_once(/aplication/utils/utiSetVarSession.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/amadaws/public_html/sysgdata/aplication/router/index.php on line 9
+[27-May-2014 09:36:55 America/Chicago] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/aplication/utils/utiSetVarSession.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/amadaws/public_html/sysgdata/aplication/router/index.php on line 9
+[27-May-2014 10:32:50 America/Chicago] PHP Fatal error:  Call to undefined function fnn() in /home/amadaws/public_html/sysgdata/aplication/router/index.php on line 7
+[27-May-2014 10:34:54 America/Chicago] PHP Fatal error:  Class 'utilidades' not found in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_log_errores_principal.php on line 73
+[27-May-2014 10:34:54 America/Chicago] PHP Fatal error:  Class 'utilidades' not found in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_log_errores_principal.php on line 73
+[27-May-2014 10:34:54 America/Chicago] PHP Fatal error:  Class 'utilidades' not found in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_log_errores_principal.php on line 73
+[27-May-2014 10:54:34 America/Chicago] PHP Deprecated:  Function split() is deprecated in /home/amadaws/public_html/sysgdata/aplication/router/index.php on line 10
+[27-May-2014 16:44:08 America/Chicago] PHP Fatal error:  Class 'con_gestion' not found in /home/amadaws/public_html/sysgdata/aplication/router/index.php(15) : eval()'d code on line 1
+[27-May-2014 16:44:37 America/Chicago] PHP Fatal error:  Class 'fac_clientes' not found in /home/amadaws/public_html/sysgdata/aplication/control/Clientes/con_gestion.php on line 25
+[27-May-2014 16:45:17 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::select_clientesEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(17) : eval()'d code on line 1
+[27-May-2014 17:20:06 America/Chicago] PHP Fatal error:  Call to undefined method vo_clientes_datos_basicos::get_identificacion() in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php on line 70
+[29-May-2014 14:42:04 America/Chicago] PHP Fatal error:  Call to undefined method dao_clientes_datos_basicos::set_identificacion() in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php on line 111
+[29-May-2014 14:44:08 America/Chicago] PHP Fatal error:  Call to a member function set_clientes_datos_basicos_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php on line 131
+[29-May-2014 15:04:30 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception: ---> dao_clientes_datos_basicos::select_rows ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>Unknown column 'admin' in 'where clause'&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre> 
+                  SELECT 
+               
+                 id,identificacion,tipo_identificacion,nombres,apellidos,talla,fecha_nacimiento,fecha_corte_nomina_1,fecha_corte_nomina_2,nombre_referencia,telefono_referencia,tipo_cliente,lugar_envio,estado,creado_por,fecha_creacion,modificado_por,fecha_modificacion FROM     clientes_datos_basicos  WHERE 1=1  AND estado = 'A' AND creado_por = admin</pre>
+' in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_clientes_datos_basicos.php:1
+Stack trace:
+#0 /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php(31): dao_clientes_datos_basicos->select_rows(Object(vo_clientes_datos_basicos), NULL, NULL, NULL, NULL)
+#1 /home/amadaws/public_html/sysg in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_clientes_datos_basicos.php on line 1
+[29-May-2014 15:05:07 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception: ---> dao_clientes_datos_basicos::select_rows ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>Unknown column 'admin' in 'where clause'&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre> 
+                  SELECT 
+               
+                 id,identificacion,tipo_identificacion,nombres,apellidos,talla,fecha_nacimiento,fecha_corte_nomina_1,fecha_corte_nomina_2,nombre_referencia,telefono_referencia,tipo_cliente,lugar_envio,estado,creado_por,fecha_creacion,modificado_por,fecha_modificacion FROM     clientes_datos_basicos  WHERE 1=1  AND estado = 'A' AND creado_por = admin</pre>
+' in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_clientes_datos_basicos.php:1
+Stack trace:
+#0 /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php(31): dao_clientes_datos_basicos->select_rows(Object(vo_clientes_datos_basicos), NULL, NULL, NULL, NULL)
+#1 /home/amadaws/public_html/sysg in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_clientes_datos_basicos.php on line 1
+[29-May-2014 15:25:58 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>Table 'amadaws_sysgdata.productos_hormas' doesn't exist&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre>DESCRIBE productos_hormas</pre>' in /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php:76
+Stack trace:
+#0 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(45): Conexion->fnEjecutaQuery('DESCRIBE produc...', false)
+#1 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(141): Conexion->fnQuery('DESCRIBE produc...', 'ASSOC', Array)
+#2 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(395): Conexion->get_columnas_by_tabla('productos_horma...')
+#3 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(314): Conexion->sql_select_all('productos_horma...')
+#4 /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_productos_hormas.php(30): Conexion->select('productos_horma...', Array)
+#5 /home/amadaws/public_htm in /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php on line 76
+[30-May-2014 09:44:56 America/Chicago] PHP Fatal error:  Call to undefined method vo_clientes_datos_contactos::get_direccion() in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php on line 228
+[30-May-2014 09:46:12 America/Chicago] PHP Fatal error:  Call to undefined method vo_clientes_datos_contactos::get_direccion() in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php on line 229
+[30-May-2014 09:52:03 America/Chicago] PHP Fatal error:  Call to a member function get_direccion() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php on line 229
+[30-May-2014 09:52:07 America/Chicago] PHP Fatal error:  Call to a member function get_direccion() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php on line 229
+[30-May-2014 10:13:23 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>Table 'amadaws_sysgdata.productos_alturas' doesn't exist&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre>DESCRIBE productos_alturas</pre>' in /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php:76
+Stack trace:
+#0 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(45): Conexion->fnEjecutaQuery('DESCRIBE produc...', false)
+#1 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(141): Conexion->fnQuery('DESCRIBE produc...', 'ASSOC', Array)
+#2 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(395): Conexion->get_columnas_by_tabla('productos_altur...')
+#3 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(314): Conexion->sql_select_all('productos_altur...')
+#4 /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_productos_alturas.php(30): Conexion->select('productos_altur...', Array)
+#5 /home/amadaws/public_ in /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php on line 76
+[30-May-2014 17:00:23 America/Chicago] PHP Fatal error:  Cannot use string offset as an array in /home/amadaws/public_html/sysgdata/aplication/utils/utilidades.php on line 98
+[30-May-2014 17:01:36 America/Chicago] PHP Fatal error:  Cannot use string offset as an array in /home/amadaws/public_html/sysgdata/aplication/utils/utilidades.php on line 99
+[30-May-2014 17:02:26 America/Chicago] PHP Fatal error:  Cannot use string offset as an array in /home/amadaws/public_html/sysgdata/aplication/utils/utilidades.php on line 99
+[30-May-2014 17:15:21 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amadaws/public_html/sysgdata/aplication/utils/utilidades.php on line 115
+[30-May-2014 17:16:00 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amadaws/public_html/sysgdata/aplication/utils/utilidades.php on line 115
+[30-May-2014 17:16:58 America/Chicago] PHP Fatal error:  Call to undefined function length() in /home/amadaws/public_html/sysgdata/aplication/utils/utilidades.php on line 109
+[30-May-2014 17:17:33 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/amadaws/public_html/sysgdata/aplication/utils/utilidades.php on line 108
+[30-May-2014 17:18:10 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amadaws/public_html/sysgdata/aplication/utils/utilidades.php on line 266
+[30-May-2014 17:19:03 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amadaws/public_html/sysgdata/aplication/utils/utilidades.php on line 266
+[30-May-2014 17:19:25 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amadaws/public_html/sysgdata/aplication/utils/utilidades.php on line 266
+[30-May-2014 17:25:53 America/Chicago] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/amadaws/public_html/sysgdata/aplication/utils/utilidades.php on line 330
+[02-Jun-2014 17:53:25 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE or '$' in /home/amadaws/public_html/sysgdata/aplication/utils/utilidades.php on line 387
+[02-Jun-2014 20:58:53 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception: ---> dao_clientes_datos_basicos::select_rows ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>Unknown column 'ssdsdsdd' in 'where clause'&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre> 
+                  SELECT 
+               
+                 id,identificacion,tipo_identificacion,nombres,apellidos,talla,fecha_nacimiento,fecha_corte_nomina_1,fecha_corte_nomina_2,nombre_referencia,telefono_referencia,tipo_cliente,lugar_envio,estado,creado_por,fecha_creacion,modificado_por,fecha_modificacion FROM     clientes_datos_basicos  WHERE 1=1  AND talla = ssdsdsdd AND estado = 'A'</pre>
+' in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_clientes_datos_basicos.php:1
+Stack trace:
+#0 /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php(31): dao_clientes_datos_basicos->select_rows(Object(vo_clientes_datos_basicos), NULL, NULL, NULL, NULL)
+#1 /home/amadaws/public_html/sys in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_clientes_datos_basicos.php on line 1
+[02-Jun-2014 22:54:33 America/Chicago] PHP Fatal error:  Call to undefined method utilidades::verifica_campos_fk() in /home/amadaws/public_html/sysgdata/aplication/utils/utilidades.php on line 433
+[02-Jun-2014 23:12:29 America/Chicago] PHP Fatal error:  Call to undefined function ArrayObject() in /home/amadaws/public_html/sysgdata/aplication/utils/utilidades.php on line 459
+[02-Jun-2014 23:13:53 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Passed variable is not an array or object, using empty array instead' in /home/amadaws/public_html/sysgdata/aplication/utils/utilidades.php:459
+Stack trace:
+#0 /home/amadaws/public_html/sysgdata/aplication/utils/utilidades.php(459): ArrayObject->__construct('rows')
+#1 /home/amadaws/public_html/sysgdata/aplication/utils/utilidades.php(113): utilidades::filtrar_campos_fk(Object(stdClass))
+#2 /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php(81): utilidades::set_response(Object(stdClass))
+#3 /home/amadaws/public_html/sysgdata/aplication/control/Clientes/con_gestion.php(31): fac_gestion->searchrowsPublic()
+#4 /home/amadaws/public_html/sysgdata/aplication/router/index.php(17) : eval()'d code(1): con_gestion->select_rowEvent()
+#5 /home/amadaws/public_html/sysgdata/aplication/router/index.php(17): eval()
+#6 {main}
+  thrown in /home/amadaws/public_html/sysgdata/aplication/utils/utilidades.php on line 459
+[03-Jun-2014 13:32:17 America/Chicago] PHP Fatal error:  Call to undefined method vo_clientes_datos_basicos::select_rows() in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php on line 110
+[03-Jun-2014 16:25:10 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>Table 'amadaws_sysgdata.productos_gestion' doesn't exist&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre>DESCRIBE productos_gestion</pre>' in /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php:78
+Stack trace:
+#0 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(47): Conexion->fnEjecutaQuery('DESCRIBE produc...', false)
+#1 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(143): Conexion->fnQuery('DESCRIBE produc...', 'ASSOC', Array)
+#2 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(400): Conexion->get_columnas_by_tabla('productos_gesti...')
+#3 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(319): Conexion->sql_select_all('productos_gesti...')
+#4 /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_productos_gestion.php(30): Conexion->select('productos_gesti...', Array)
+#5 /home/amadaws/public_ in /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php on line 78
+[03-Jun-2014 17:02:31 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>Table 'amadaws_sysgdata.productos_gestion' doesn't exist&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre>DESCRIBE productos_gestion</pre>' in /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php:78
+Stack trace:
+#0 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(47): Conexion->fnEjecutaQuery('DESCRIBE produc...', false)
+#1 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(143): Conexion->fnQuery('DESCRIBE produc...', 'ASSOC', Array)
+#2 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(400): Conexion->get_columnas_by_tabla('productos_gesti...')
+#3 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(319): Conexion->sql_select_all('productos_gesti...')
+#4 /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_productos_gestion.php(30): Conexion->select('productos_gesti...', Array)
+#5 /home/amadaws/public_ in /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php on line 78
+[03-Jun-2014 17:12:07 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>Table 'amadaws_sysgdata.productos_gestion' doesn't exist&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre>DESCRIBE productos_gestion</pre>' in /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php:78
+Stack trace:
+#0 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(47): Conexion->fnEjecutaQuery('DESCRIBE produc...', false)
+#1 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(143): Conexion->fnQuery('DESCRIBE produc...', 'ASSOC', Array)
+#2 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(400): Conexion->get_columnas_by_tabla('productos_gesti...')
+#3 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(319): Conexion->sql_select_all('productos_gesti...')
+#4 /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_productos_gestion.php(30): Conexion->select('productos_gesti...', Array)
+#5 /home/amadaws/public_ in /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php on line 78
+[03-Jun-2014 17:12:12 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>Table 'amadaws_sysgdata.productos_gestion' doesn't exist&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre>DESCRIBE productos_gestion</pre>' in /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php:78
+Stack trace:
+#0 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(47): Conexion->fnEjecutaQuery('DESCRIBE produc...', false)
+#1 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(143): Conexion->fnQuery('DESCRIBE produc...', 'ASSOC', Array)
+#2 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(400): Conexion->get_columnas_by_tabla('productos_gesti...')
+#3 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(319): Conexion->sql_select_all('productos_gesti...')
+#4 /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_productos_gestion.php(30): Conexion->select('productos_gesti...', Array)
+#5 /home/amadaws/public_ in /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php on line 78
+[03-Jun-2014 17:13:51 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>Table 'amadaws_sysgdata.productos_gestion' doesn't exist&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre>DESCRIBE productos_gestion</pre>' in /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php:78
+Stack trace:
+#0 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(47): Conexion->fnEjecutaQuery('DESCRIBE produc...', false)
+#1 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(143): Conexion->fnQuery('DESCRIBE produc...', 'ASSOC', Array)
+#2 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(400): Conexion->get_columnas_by_tabla('productos_gesti...')
+#3 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(319): Conexion->sql_select_all('productos_gesti...')
+#4 /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_productos_gestion.php(30): Conexion->select('productos_gesti...', Array)
+#5 /home/amadaws/public_ in /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php on line 78
+[03-Jun-2014 17:15:24 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>Table 'amadaws_sysgdata.productos_gestion' doesn't exist&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre>DESCRIBE productos_gestion</pre>' in /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php:78
+Stack trace:
+#0 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(47): Conexion->fnEjecutaQuery('DESCRIBE produc...', false)
+#1 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(143): Conexion->fnQuery('DESCRIBE produc...', 'ASSOC', Array)
+#2 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(400): Conexion->get_columnas_by_tabla('productos_gesti...')
+#3 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(319): Conexion->sql_select_all('productos_gesti...')
+#4 /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_productos_gestion.php(30): Conexion->select('productos_gesti...', Array)
+#5 /home/amadaws/public_ in /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php on line 78
+[03-Jun-2014 17:16:00 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>Table 'amadaws_sysgdata.productos_gestion' doesn't exist&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre>DESCRIBE productos_gestion</pre>' in /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php:78
+Stack trace:
+#0 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(47): Conexion->fnEjecutaQuery('DESCRIBE produc...', false)
+#1 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(143): Conexion->fnQuery('DESCRIBE produc...', 'ASSOC', Array)
+#2 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(400): Conexion->get_columnas_by_tabla('productos_gesti...')
+#3 /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php(319): Conexion->sql_select_all('productos_gesti...')
+#4 /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_productos_gestion.php(30): Conexion->select('productos_gesti...', Array)
+#5 /home/amadaws/public_ in /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php on line 78
+[03-Jun-2014 17:24:59 America/Chicago] PHP Fatal error:  Call to undefined method dao_productos_datos_basicos::get_id_coleccion() in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 68
+[03-Jun-2014 17:26:52 America/Chicago] PHP Fatal error:  Call to undefined method dao_productos_datos_basicos::get_id_coleccion() in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 68
+[03-Jun-2014 17:27:04 America/Chicago] PHP Fatal error:  Call to undefined method dao_productos_datos_basicos::get_id_coleccion() in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 68
+[03-Jun-2014 17:30:23 America/Chicago] PHP Fatal error:  Call to undefined method dao_productos_datos_basicos::get_referencia() in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 69
+[03-Jun-2014 21:05:26 America/Chicago] PHP Fatal error:  Call to undefined method dao_productos_datos_basicos::get_referencia() in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 69
+[03-Jun-2014 21:05:36 America/Chicago] PHP Fatal error:  Call to undefined method dao_productos_datos_basicos::get_referencia() in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 69
+[03-Jun-2014 21:32:55 America/Chicago] PHP Fatal error:  Call to undefined method dao_productos_datos_basicos::get_id_coleccion() in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 68
+[03-Jun-2014 21:39:46 America/Chicago] PHP Fatal error:  Call to undefined method dao_productos_datos_basicos::get_referencia() in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 69
+[03-Jun-2014 21:44:09 America/Chicago] PHP Fatal error:  Call to undefined method dao_productos_datos_basicos::get_referencia() in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 69
+[03-Jun-2014 21:44:15 America/Chicago] PHP Fatal error:  Call to undefined method dao_productos_datos_basicos::get_referencia() in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 69
+[03-Jun-2014 21:53:32 America/Chicago] PHP Fatal error:  Class 'fac_gestion' not found in /home/amadaws/public_html/sysgdata/aplication/control/Productos/con_gestion.php on line 25
+[03-Jun-2014 21:54:04 America/Chicago] PHP Fatal error:  Call to undefined method dao_productos_datos_basicos::get_referencia() in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion_productos.php on line 69
+[04-Jun-2014 07:33:01 America/Chicago] PHP Fatal error:  Call to undefined method dao_productos_datos_basicos::get_referencia() in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion_productos.php on line 69
+[04-Jun-2014 07:37:29 America/Chicago] PHP Fatal error:  Call to undefined method dao_productos_datos_basicos::get_referencia() in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion_productos.php on line 69
+[04-Jun-2014 07:40:47 America/Chicago] PHP Fatal error:  Call to undefined method dao_productos_datos_basicos::get_referencia() in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion_productos.php on line 69
+[05-Jun-2014 09:20:22 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::listar_referidos_oldEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(17) : eval()'d code on line 1
+[05-Jun-2014 10:28:45 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::search_detalle_factura_oldEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(17) : eval()'d code on line 1
+[05-Jun-2014 10:29:10 America/Chicago] PHP Fatal error:  Call to undefined method fac_gestion::search_detalle_facturaPublic() in /home/amadaws/public_html/sysgdata/aplication/control/Clientes/con_gestion.php on line 56
+[05-Jun-2014 15:56:10 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::listar_plan_pagos_oldEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(17) : eval()'d code on line 1
+[06-Jun-2014 09:06:48 America/Chicago] PHP Fatal error:  Class 'con_gestion' not found in /home/amadaws/public_html/sysgdata/aplication/router/index.php(15) : eval()'d code on line 1
+[06-Jun-2014 11:20:05 America/Chicago] PHP Fatal error:  Call to undefined method fac_gestion::search_by_campoPublic() in /home/amadaws/public_html/sysgdata/aplication/control/Clientes/con_gestion.php on line 72
+[06-Jun-2014 11:20:57 America/Chicago] PHP Fatal error:  Call to undefined method vo_clientes_datos_basicos::set_referencia() in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php on line 399
+[06-Jun-2014 11:21:24 America/Chicago] PHP Fatal error:  Class 'dao_productos_colores' not found in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 19
+[06-Jun-2014 11:21:29 America/Chicago] PHP Fatal error:  Class 'dao_productos_badanas' not found in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_badanas.php on line 19
+[06-Jun-2014 11:25:56 America/Chicago] PHP Fatal error:  Call to undefined method vo_clientes_datos_basicos::set_referencia() in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php on line 402
+[06-Jun-2014 11:31:38 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::search_by_campoEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(17) : eval()'d code on line 1
+[06-Jun-2014 13:54:39 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 198
+[06-Jun-2014 13:55:46 America/Chicago] PHP Fatal error:  Call to undefined method vo_productos_datos_basicos::get_nombre() in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 199
+[06-Jun-2014 17:04:23 America/Chicago] PHP Fatal error:  Class 'dao_productos_colores' not found in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 19
+[06-Jun-2014 17:06:04 America/Chicago] PHP Fatal error:  Class 'dao_productos_colores' not found in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 19
+[06-Jun-2014 17:06:30 America/Chicago] PHP Fatal error:  Class 'dao_productos_colores' not found in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 19
+[06-Jun-2014 17:08:18 America/Chicago] PHP Fatal error:  Class 'dao_productos_colores_descripciones' not found in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 114
+[07-Jun-2014 00:21:46 America/Chicago] PHP Fatal error:  Call to a member function get_id_coleccion() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 199
+[08-Jun-2014 20:55:36 America/Chicago] PHP Fatal error:  Class 'fac_colores' not found in /home/amadaws/public_html/sysgdata/aplication/control/Productos/con_colores.php on line 25
+[08-Jun-2014 21:20:26 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 192
+[08-Jun-2014 21:21:10 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 191
+[08-Jun-2014 22:01:45 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 197
+[09-Jun-2014 10:00:00 America/Chicago] PHP Fatal error:  Cannot use object of type vo_productos_colores_descripciones as array in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 157
+[09-Jun-2014 10:01:22 America/Chicago] PHP Fatal error:  Cannot use object of type vo_productos_colores_descripciones as array in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 157
+[09-Jun-2014 10:06:12 America/Chicago] PHP Fatal error:  Cannot use object of type vo_productos_colores_descripciones as array in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 158
+[09-Jun-2014 10:36:59 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 259
+[09-Jun-2014 10:37:45 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 259
+[09-Jun-2014 10:38:09 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 259
+[09-Jun-2014 10:38:59 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 259
+[09-Jun-2014 10:39:16 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 259
+[09-Jun-2014 10:39:28 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 259
+[09-Jun-2014 10:43:03 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 259
+[09-Jun-2014 10:45:58 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 259
+[09-Jun-2014 10:48:36 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 259
+[09-Jun-2014 10:48:48 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 259
+[09-Jun-2014 10:50:08 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 259
+[09-Jun-2014 13:53:53 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_coleccion.php on line 159
+[09-Jun-2014 13:54:23 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_coleccion.php on line 159
+[09-Jun-2014 14:15:05 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_categoria.php on line 160
+[09-Jun-2014 14:15:05 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_coleccion.php on line 159
+[09-Jun-2014 16:06:10 America/Chicago] PHP Fatal error:  Call to undefined method vo_clientes_anticipos::set_clientes_datos_basicos_idid() in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_anticipos.php on line 259
+[09-Jun-2014 17:01:13 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_anticipos.php on line 301
+[09-Jun-2014 17:02:29 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_anticipos.php on line 301
+[09-Jun-2014 17:04:04 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_anticipos.php on line 329
+[09-Jun-2014 17:04:58 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_anticipos.php on line 329
+[09-Jun-2014 17:07:47 America/Chicago] PHP Fatal error:  Call to undefined method con_anticipos::select_datos_entradas_salidasEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(17) : eval()'d code on line 1
+[09-Jun-2014 17:08:33 America/Chicago] PHP Fatal error:  Call to undefined method con_anticipos::select_datos_entradas_salidasEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(17) : eval()'d code on line 1
+[09-Jun-2014 17:09:49 America/Chicago] PHP Fatal error:  Call to undefined method con_anticipos::select_datos_entradas_salidasEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(17) : eval()'d code on line 1
+[09-Jun-2014 17:28:38 America/Chicago] PHP Fatal error:  Call to undefined method vo_clientes_anticipos_entradas::get_date_entered() in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_anticipos.php on line 304
+[09-Jun-2014 17:29:48 America/Chicago] PHP Fatal error:  Call to undefined method vo_clientes_anticipos_entradas::get_date_entered() in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_anticipos.php on line 306
+[09-Jun-2014 17:30:50 America/Chicago] PHP Fatal error:  Call to undefined method vo_clientes_anticipos_entradas::get_date_entered() in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_anticipos.php on line 307
+[10-Jun-2014 11:38:10 America/Chicago] PHP Fatal error:  Call to undefined method vo_facturas_datos_basicos::set_clientes_datos_basicos_id() in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 104
+[10-Jun-2014 11:40:15 America/Chicago] PHP Fatal error:  Class 'dao_productos_descripciones' not found in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 126
+[10-Jun-2014 11:48:37 America/Chicago] PHP Fatal error:  Call to undefined method vo_facturas_productos_detalles::set_modificaciones_producto() in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 149
+[11-Jun-2014 09:07:07 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 108
+[11-Jun-2014 11:21:55 America/Chicago] PHP Fatal error:  Call to undefined method vo_abonos_facturas_pagos_consignacion::set_abonos_facturas_pagos_id() in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 321
+[11-Jun-2014 11:44:42 America/Chicago] PHP Fatal error:  Call to undefined method vo_abonos_facturas_pagos::set_valor_pagado() in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 320
+[11-Jun-2014 12:43:59 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 169
+[11-Jun-2014 12:48:09 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 437
+[11-Jun-2014 12:48:25 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 437
+[11-Jun-2014 15:20:59 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 114
+[11-Jun-2014 17:13:52 America/Chicago] PHP Fatal error:  Call to undefined method dao_facturas_datos_basicos::set_id() in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 484
+[11-Jun-2014 17:17:15 America/Chicago] PHP Fatal error:  Call to undefined method dao_clientes_datos_basicos::set_id() in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 497
+[11-Jun-2014 17:17:41 America/Chicago] PHP Fatal error:  Call to undefined method dao_facturas_productos_detalles::get_productos_colores_descripciones_id() in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 551
+[11-Jun-2014 17:18:06 America/Chicago] PHP Fatal error:  Call to undefined method dao_facturas_productos_detalles::get_talla() in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 570
+[11-Jun-2014 17:18:30 America/Chicago] PHP Fatal error:  Call to undefined method dao_facturas_productos_detalles::get_subtotal_producto() in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 571
+[11-Jun-2014 17:18:53 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 130
+[11-Jun-2014 17:20:04 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 130
+[11-Jun-2014 17:20:37 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 130
+[11-Jun-2014 17:21:19 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 130
+[11-Jun-2014 17:22:12 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 579
+[11-Jun-2014 17:23:19 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 579
+[11-Jun-2014 17:26:20 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 130
+[11-Jun-2014 17:26:51 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 130
+[11-Jun-2014 17:28:09 America/Chicago] PHP Parse error:  syntax error, unexpected T_FOR in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 127
+[11-Jun-2014 17:29:10 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_coleccion.php on line 159
+[12-Jun-2014 00:12:33 America/Chicago] PHP Fatal error:  Class 'dao_productos_colores_badanas' not found in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 255
+[12-Jun-2014 00:15:10 America/Chicago] PHP Fatal error:  Call to undefined method dao_productos_colores_descripciones::set_id() in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 269
+[12-Jun-2014 07:38:29 America/Chicago] PHP Fatal error:  Call to undefined method vo_productos_colores_descripciones::get_id_color() in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 309
+[12-Jun-2014 10:38:59 America/Chicago] PHP Fatal error:  Call to undefined method vo_productos_datos_basicos::set_id_badana() in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 129
+[12-Jun-2014 10:42:40 America/Chicago] PHP Fatal error:  Call to undefined method vo_productos_datos_basicos::set_id_badana() in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 161
+[12-Jun-2014 10:55:28 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_coleccion.php on line 159
+[12-Jun-2014 11:10:07 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_coleccion.php on line 159
+[12-Jun-2014 11:12:43 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_coleccion.php on line 159
+[12-Jun-2014 11:17:59 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception: ---> dao_facturas_datos_basicos::select_all_facturas_sistemas ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>Every derived table must have its own alias&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre>
+                        SELECT
+                            estado
+                        FROM
+                            
+							(
+								SELECT
+									id,
+									clientes_datos_basicos_id,
+									numero_factura,
+									numero_factura_id,
+									subtotal,
+									descuento,
+									iva,
+									observaciones,
+									'SY' as tipo_sistema,
+									creado_por,
+									fecha_creacion
+								FROM
+									facturas_datos_basicos
+								WHERE
+									estado = 'A'
+							)
+							
+							UNION ALL
+							
+							(
+								SELECT
+									p.id,
+									acc.id as clientes_datos_basicos_id,
+									ped_fac.numero_factura,
+									ped_fac.id as numero_factura_id,
+									((
+										S in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_facturas_datos_basicos.php on line 264
+[12-Jun-2014 11:26:10 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception: ---> dao_facturas_datos_basicos::select_all_facturas_sistemas ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>Every derived table must have its own alias&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre>
+                        SELECT
+                            estado
+                        FROM
+                            
+							(
+								SELECT
+									id,
+									clientes_datos_basicos_id,
+									numero_factura,
+									numero_factura_id,
+									subtotal,
+									descuento,
+									iva,
+									observaciones,
+									'SY' as tipo_sistema,
+									creado_por,
+									fecha_creacion
+								FROM
+									amadaws_sysgdata.facturas_datos_basicos
+								WHERE
+									estado = 'A'
+							)
+							
+							UNION ALL
+							
+							(
+								SELECT
+									p.id,
+									acc.id as clientes_datos_basicos_id,
+									ped_fac.numero_factura,
+									p.id as numero_factura_id,
+									((
+ in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_facturas_datos_basicos.php on line 265
+[12-Jun-2014 11:29:00 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception: ---> dao_facturas_datos_basicos::select_all_facturas_sistemas ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as yz
+						) xyz
+						
+                        WHERE
+                         ' at line 92&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre>
+                        SELECT
+                            estado
+                        FROM
+                            
+						(
+							(
+								SELECT
+									id,
+									clientes_datos_basicos_id,
+									numero_factura,
+									numero_factura_id,
+									subtotal,
+									descuento,
+									iva,
+									observaciones,
+									'SY' as tipo_sistema,
+									creado_por,
+									fecha_creacion
+								FROM
+									amadaws_sysgdata.facturas_datos_basicos
+								WHERE
+									estado = 'A'
+							) as xy
+	 in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_facturas_datos_basicos.php on line 266
+[12-Jun-2014 11:34:58 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception: ---> dao_facturas_datos_basicos::select_all_facturas_sistemas ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>Table 'amadaws_sysgdata.detalle_cotizacion' doesn't exist&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre>
+                        SELECT
+                            estado
+                        FROM
+                            
+						(
+								SELECT
+									id,
+									clientes_datos_basicos_id,
+									numero_factura,
+									numero_factura_id,
+									subtotal,
+									descuento,
+									iva,
+									observaciones,
+									'SY' as tipo_sistema,
+									creado_por,
+									fecha_creacion
+								FROM
+									amadaws_sysgdata.facturas_datos_basicos
+								WHERE
+									estado = 'A'
+							
+							UNION ALL
+							
+								SELECT
+									p.id,
+									acc.id as clientes_datos_basicos_id,
+									ped_fac.numero_factura,
+									p.id as numero_factura_id,
+									((
+					 in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_facturas_datos_basicos.php on line 263
+[12-Jun-2014 11:35:58 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception: ---> dao_facturas_datos_basicos::select_all_facturas_sistemas ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>Unknown column 'estado' in 'field list'&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre>
+                        SELECT
+                            estado
+                        FROM
+                            
+						(
+								SELECT
+									id,
+									clientes_datos_basicos_id,
+									numero_factura,
+									numero_factura_id,
+									subtotal,
+									descuento,
+									iva,
+									observaciones,
+									'SY' as tipo_sistema,
+									creado_por,
+									fecha_creacion
+								FROM
+									amadaws_sysgdata.facturas_datos_basicos
+								WHERE
+									estado = 'A'
+							
+							UNION ALL
+							
+								SELECT
+									p.id,
+									acc.id as clientes_datos_basicos_id,
+									ped_fac.numero_factura,
+									p.id as numero_factura_id,
+									((
+										SELECT
+						 in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_facturas_datos_basicos.php on line 263
+[12-Jun-2014 11:37:50 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception: ---> dao_facturas_datos_basicos::select_all_facturas_sistemas ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL
+							
+								SELECT
+									p.id,
+									acc.id as clientes_dato' at line 20&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre>
+						(
+								SELECT
+									id,
+									clientes_datos_basicos_id,
+									numero_factura,
+									numero_factura_id,
+									subtotal,
+									descuento,
+									iva,
+									observaciones,
+									'SY' as tipo_sistema,
+									creado_por,
+									fecha_creacion,
+									estado
+								FROM
+									amadaws_sysgdata.facturas_datos_basicos
+								WHERE
+									estado = 'A'
+							
+							UNION ALL
+							
+								SELECT
+									p.id,
+									acc.id as clientes_datos_basicos_id,
+									ped_fac.numero in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_facturas_datos_basicos.php on line 265
+[12-Jun-2014 11:43:36 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception: ---> dao_facturas_datos_basicos::select_all_facturas_sistemas ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL
+							
+								SELECT
+									p.id,
+									acc.id as clientes_dato' at line 20&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre>
+						(
+								SELECT
+									id,
+									clientes_datos_basicos_id,
+									numero_factura,
+									numero_factura_id,
+									subtotal,
+									descuento,
+									iva,
+									observaciones,
+									'SY' as tipo_sistema,
+									creado_por,
+									fecha_creacion,
+									estado
+								FROM
+									amadaws_sysgdata.facturas_datos_basicos
+								WHERE
+									estado = 'A'
+							
+							UNION ALL
+							
+								SELECT
+									p.id,
+									acc.id as clientes_datos_basicos_id,
+									ped_fac.numero in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_facturas_datos_basicos.php on line 265
+[12-Jun-2014 11:44:56 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception: ---> dao_facturas_datos_basicos::select_all_facturas_sistemas ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL
+							
+								SELECT
+									p.id,
+									acc.id as clientes_dato' at line 20&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre>
+						(
+								SELECT
+									id,
+									clientes_datos_basicos_id,
+									numero_factura,
+									numero_factura_id,
+									subtotal,
+									descuento,
+									iva,
+									observaciones,
+									'SY' as tipo_sistema,
+									creado_por,
+									fecha_creacion,
+									estado
+								FROM
+									amadaws_sysgdata.facturas_datos_basicos
+								WHERE
+									estado = 'A'
+							
+							UNION ALL
+							
+								SELECT
+									p.id,
+									acc.id as clientes_datos_basicos_id,
+									ped_fac.numero in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_facturas_datos_basicos.php on line 265
+[12-Jun-2014 11:46:20 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception: ---> dao_facturas_datos_basicos::select_all_facturas_sistemas ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL
+							
+								SELECT
+									p.id,
+									acc.id as clientes_dato' at line 20&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre>
+						(
+								SELECT
+									id,
+									clientes_datos_basicos_id,
+									numero_factura,
+									numero_factura_id,
+									subtotal,
+									descuento,
+									iva,
+									observaciones,
+									'SY' as tipo_sistema,
+									creado_por,
+									fecha_creacion,
+									estado
+								FROM
+									amadaws_sysgdata.facturas_datos_basicos
+								WHERE
+									estado = 'A'
+							
+							UNION ALL
+							
+								SELECT
+									p.id,
+									acc.id as clientes_datos_basicos_id,
+									ped_fac.numero in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_facturas_datos_basicos.php on line 266
+[12-Jun-2014 11:47:10 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception: ---> dao_facturas_datos_basicos::select_all_facturas_sistemas ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL
+							
+								SELECT
+									p.id,
+									acc.id as clientes_dato' at line 20&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre>
+						(
+								SELECT
+									id,
+									clientes_datos_basicos_id,
+									numero_factura,
+									numero_factura_id,
+									subtotal,
+									descuento,
+									iva,
+									observaciones,
+									'SY' as tipo_sistema,
+									creado_por,
+									fecha_creacion,
+									estado
+								FROM
+									amadaws_sysgdata.facturas_datos_basicos
+								WHERE
+									estado = 'A'
+							
+							UNION ALL
+							
+								SELECT
+									p.id,
+									acc.id as clientes_datos_basicos_id,
+									ped_fac.numero in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_facturas_datos_basicos.php on line 266
+[12-Jun-2014 11:47:25 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception: ---> dao_facturas_datos_basicos::select_all_facturas_sistemas ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL
+							
+								SELECT
+									p.id,
+									acc.id as clientes_dato' at line 20&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre>
+						(
+								SELECT
+									id,
+									clientes_datos_basicos_id,
+									numero_factura,
+									numero_factura_id,
+									subtotal,
+									descuento,
+									iva,
+									observaciones,
+									'SY' as tipo_sistema,
+									creado_por,
+									fecha_creacion,
+									estado
+								FROM
+									amadaws_sysgdata.facturas_datos_basicos
+								WHERE
+									estado = 'A'
+							
+							UNION ALL
+							
+								SELECT
+									p.id,
+									acc.id as clientes_datos_basicos_id,
+									ped_fac.numero in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_facturas_datos_basicos.php on line 266
+[12-Jun-2014 12:00:52 America/Chicago] PHP Fatal error:  Call to undefined method stdClass::get_creado_por() in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 64
+[12-Jun-2014 12:02:26 America/Chicago] PHP Fatal error:  Call to undefined method stdClass::get_creado_por() in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 65
+[12-Jun-2014 12:35:44 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_categoria.php on line 160
+[12-Jun-2014 12:36:00 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_categoria.php on line 160
+[12-Jun-2014 12:58:32 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_categoria.php on line 160
+[12-Jun-2014 13:00:25 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_categoria.php on line 160
+[12-Jun-2014 13:04:18 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_categoria.php on line 160
+[12-Jun-2014 13:38:14 America/Chicago] PHP Fatal error:  Call to undefined method dao_productos_colores_descripciones_badanas::set_id() in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 345
+[12-Jun-2014 13:40:36 America/Chicago] PHP Fatal error:  Call to undefined method dao_productos_colores_descripciones_badanas::set_id_referencia() in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 345
+[12-Jun-2014 13:45:29 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception: ---> dao_facturas_datos_basicos::select_all_facturas_sistemas ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>Unknown column 'p.accounbt_id' in 'field list'&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre>
+					SELECT
+						*
+					FROM
+						(
+							SELECT
+								p.id,
+								p.accounbt_id as clientes_datos_basicos_id,
+								ped_fac.numero_factura,
+								p.id as numero_factura_id,
+								'' as subtotal,
+								'' as descuento,
+								'' as iva,
+								'' as observaciones,
+								'A' as estado,
+								3 as creado_por,
+								ped_fac.date_entered as fecha_creacion,
+								'' as modificado_por,
+								'' as fecha_modificacion
+							FROM
+								amadaws_crmamada.pedidos p
+									INNER JOIN
+										amadaws_crmamada.pedidos_factura ped_fac ON
+											p.id = ped_fac.id_pedido
+							WHERE
+								p.estado IN(3)
+						) xyz
+					WHERE 1=1
+						 AND estado = 'A'</pre>
+' in /home/amad in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_facturas_datos_basicos.php on line 204
+[12-Jun-2014 13:46:17 America/Chicago] PHP Fatal error:  Call to undefined method dao_clientes_datos_basicos::set_account_id() in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 144
+[12-Jun-2014 13:47:35 America/Chicago] PHP Fatal error:  Call to undefined method vo_productos_colores_descripciones_badanas::get_descripcion() in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 353
+[12-Jun-2014 13:48:50 America/Chicago] PHP Fatal error:  Call to a member function get_nombres() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 155
+[12-Jun-2014 15:10:05 America/Chicago] PHP Fatal error:  Call to undefined method dao_clientes_datos_basicos::buscar_total_factura_antigua() in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 150
+[12-Jun-2014 15:10:59 America/Chicago] PHP Fatal error:  Call to undefined method dao_clientes_datos_basicos::buscar_total_factura_antigua() in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 150
+[12-Jun-2014 15:11:47 America/Chicago] PHP Fatal error:  Call to undefined method dao_facturas_datos_basicos::get_id() in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 150
+[12-Jun-2014 15:13:59 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception: ---> dao_facturas_datos_basicos::buscar_total_factura_antigua ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>Table 'amadaws_sysgdata.detalle_cotizacion' doesn't exist&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre>
+						SELECT
+							SUM(valor) as total_factura
+						FROM
+							detalle_cotizacion
+						WHERE
+							pedido_id = '365926b0-f57a-dcae-46a9-5398f0a6df49'
+				</pre>
+' in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_facturas_datos_basicos.php:235
+Stack trace:
+#0 /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php(150): dao_facturas_datos_basicos->buscar_total_factura_antigua('365926b0-f57a-d...')
+#1 /home/amadaws/public_html/sysgdata/aplication/control/Facturas/con_gestion.php(48): fac_gestion->select_row_antiguoPublic()
+#2 /home/amadaws/public_html/sysgdata/aplication/router/index.php(17) : eval()'d code(1): con_gestion->select_row_antiguoEve in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_facturas_datos_basicos.php on line 235
+[12-Jun-2014 15:14:50 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception: ---> dao_facturas_datos_basicos::buscar_total_factura_antigua ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>Unknown column 'pedido_id' in 'where clause'&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre>
+						SELECT
+							SUM(valor) as total_factura
+						FROM
+							amadaws_crmamada.detalle_cotizacion
+						WHERE
+							pedido_id = '365926b0-f57a-dcae-46a9-5398f0a6df49'
+				</pre>
+' in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_facturas_datos_basicos.php:235
+Stack trace:
+#0 /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php(150): dao_facturas_datos_basicos->buscar_total_factura_antigua('365926b0-f57a-d...')
+#1 /home/amadaws/public_html/sysgdata/aplication/control/Facturas/con_gestion.php(48): fac_gestion->select_row_antiguoPublic()
+#2 /home/amadaws/public_html/sysgdata/aplication/router/index.php(17) : eval()'d code(1): con_gestion->select_row_antigu in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_facturas_datos_basicos.php on line 235
+[12-Jun-2014 15:42:44 America/Chicago] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php on line 68
+[12-Jun-2014 15:47:31 America/Chicago] PHP Fatal error:  Call to undefined method vo_productos_colores_descripciones::set_id_referencia() in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 362
+[12-Jun-2014 15:57:14 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 371
+[12-Jun-2014 15:58:03 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 373
+[12-Jun-2014 15:58:47 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 372
+[12-Jun-2014 16:11:40 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 370
+[12-Jun-2014 16:12:09 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 371
+[12-Jun-2014 16:13:08 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 372
+[12-Jun-2014 16:13:53 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 372
+[12-Jun-2014 16:14:38 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 374
+[12-Jun-2014 16:16:55 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 374
+[12-Jun-2014 16:19:16 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 375
+[12-Jun-2014 16:20:51 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 376
+[12-Jun-2014 16:22:16 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 375
+[12-Jun-2014 16:24:29 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 375
+[12-Jun-2014 16:25:09 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 375
+[12-Jun-2014 16:26:03 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 375
+[12-Jun-2014 16:26:36 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 374
+[12-Jun-2014 16:27:45 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 375
+[12-Jun-2014 16:28:13 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 375
+[12-Jun-2014 16:29:23 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 375
+[12-Jun-2014 16:32:07 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 375
+[12-Jun-2014 16:32:53 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 376
+[12-Jun-2014 16:33:26 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 376
+[12-Jun-2014 16:35:27 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 377
+[12-Jun-2014 16:36:20 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 377
+[13-Jun-2014 09:58:28 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 71 bytes) in /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php on line 50
+[13-Jun-2014 15:40:04 America/Chicago] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/amadaws/public_html/cueros/control/Mailer/class.phpmailer.php on line 2319
+[13-Jun-2014 15:41:42 America/Chicago] PHP Fatal error:  Cannot redeclare class utilidades in /home/amadaws/public_html/cueros/control/utilidades/utilidades.php on line 5
+[13-Jun-2014 15:48:26 America/Chicago] PHP Fatal error:  Cannot redeclare class utilidades in /home/amadaws/public_html/cueros/control/utilidades/utilidades.php on line 5
+[13-Jun-2014 15:52:33 America/Chicago] PHP Fatal error:  Cannot redeclare class InputFilter in /home/amadaws/public_html/cueros/include/inputfilter-2005-05-09/class.inputfilter.php5 on line 13
+[13-Jun-2014 15:55:43 America/Chicago] PHP Fatal error:  Call to undefined method utilidades::get_timestamp() in /home/amadaws/public_html/cueros/control/log_errores/log_errores.php on line 82
+[13-Jun-2014 16:05:36 America/Chicago] PHP Fatal error:  Cannot redeclare class log_errores in /home/amadaws/public_html/sysgdata/aplication/utils/log_errores/log_errores.php on line 23
+[13-Jun-2014 16:07:21 America/Chicago] PHP Fatal error:  Class 'log_errores' not found in /home/amadaws/public_html/cueros/control/bd/mysql.php on line 139
+[13-Jun-2014 16:10:27 America/Chicago] PHP Fatal error:  Class 'log_errores' not found in /home/amadaws/public_html/cueros/control/bd/mysql.php on line 140
+[13-Jun-2014 16:55:52 America/Chicago] PHP Notice:  Undefined index: class in /home/amadaws/public_html/cueros/control/log_errores/log_errores.php on line 56
+[13-Jun-2014 16:55:52 America/Chicago] PHP Notice:  Undefined index: object in /home/amadaws/public_html/cueros/control/log_errores/log_errores.php on line 57
+[13-Jun-2014 16:55:52 America/Chicago] PHP Notice:  Undefined index: type in /home/amadaws/public_html/cueros/control/log_errores/log_errores.php on line 58
+[13-Jun-2014 16:55:52 America/Chicago] PHP Notice:  Undefined index: class in /home/amadaws/public_html/cueros/control/log_errores/log_errores.php on line 56
+[13-Jun-2014 16:55:52 America/Chicago] PHP Notice:  Undefined index: object in /home/amadaws/public_html/cueros/control/log_errores/log_errores.php on line 57
+[13-Jun-2014 16:55:52 America/Chicago] PHP Notice:  Undefined index: type in /home/amadaws/public_html/cueros/control/log_errores/log_errores.php on line 58
+[13-Jun-2014 16:55:52 America/Chicago] PHP Notice:  Undefined index: args in /home/amadaws/public_html/cueros/control/log_errores/log_errores.php on line 59
+[13-Jun-2014 16:55:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/amadaws/public_html/cueros/control/log_errores/log_errores.php on line 108
+[13-Jun-2014 16:55:52 America/Chicago] PHP Fatal error:  Class 'Mail' not found in /home/amadaws/public_html/cueros/control/log_errores/log_errores.php on line 168
+[13-Jun-2014 17:00:04 America/Chicago] PHP Notice:  Undefined index: type in /home/amadaws/public_html/cueros/control/log_errores/log_errores.php on line 58
+[13-Jun-2014 17:00:04 America/Chicago] PHP Notice:  Undefined index: type in /home/amadaws/public_html/cueros/control/log_errores/log_errores.php on line 58
+[13-Jun-2014 17:00:04 America/Chicago] PHP Fatal error:  Class 'Mail' not found in /home/amadaws/public_html/cueros/control/log_errores/log_errores.php on line 168
+[13-Jun-2014 17:00:47 America/Chicago] PHP Fatal error:  Class 'Mail' not found in /home/amadaws/public_html/cueros/control/log_errores/log_errores.php on line 168
+[13-Jun-2014 17:01:36 America/Chicago] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/amadaws/public_html/cueros/control/Mailer/class.phpmailer.php on line 2319
+[13-Jun-2014 17:02:33 America/Chicago] PHP Fatal error:  Class 'Mail' not found in /home/amadaws/public_html/cueros/control/log_errores/log_errores.php on line 168
+[13-Jun-2014 17:06:10 America/Chicago] PHP Fatal error:  Class 'Mail' not found in /home/amadaws/public_html/cueros/control/log_errores/log_errores.php on line 168
+[13-Jun-2014 17:19:42 America/Chicago] PHP Fatal error:  Call to undefined method cue_movimientos_contablesSQL::get_items_factura_by_numero_vd() in /home/amadaws/public_html/cueros/control/cue_hist_pedidos/cue_movimientos_contables.php on line 4800
+[13-Jun-2014 17:30:46 America/Chicago] PHP Fatal error:  Class 'log_errores' not found in /home/amadaws/public_html/sysgdata/aplication/router/index.php on line 21
+[16-Jun-2014 07:56:39 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 228
+[16-Jun-2014 09:36:42 America/Chicago] PHP Parse error:  syntax error, unexpected T_ECHO in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 178
+[16-Jun-2014 09:36:56 America/Chicago] PHP Parse error:  syntax error, unexpected T_ECHO in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 178
+[16-Jun-2014 11:56:16 America/Chicago] PHP Fatal error:  Call to undefined method vo_productos_colores_descripciones_badanas::set_badana() in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 163
+[16-Jun-2014 13:40:14 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/amadaws/public_html/cueros/control/bd/mysql.php on line 123
+[16-Jun-2014 15:02:29 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::listar_plan_pagos_newEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(17) : eval()'d code on line 1
+[16-Jun-2014 15:09:11 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::listar_plan_pagos_newEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(17) : eval()'d code on line 1
+[16-Jun-2014 15:13:45 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::listar_plan_pagos_newEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(17) : eval()'d code on line 1
+[16-Jun-2014 15:16:29 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::listar_plan_pagos_newEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(17) : eval()'d code on line 1
+[16-Jun-2014 15:56:38 America/Chicago] PHP Fatal error:  Call to undefined function GetpagosFacturas() in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php on line 491
+[16-Jun-2014 15:57:23 America/Chicago] PHP Fatal error:  Call to undefined function GetpagosFacturas() in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php on line 491
+[16-Jun-2014 15:58:49 America/Chicago] PHP Fatal error:  Call to undefined function GetpagosFacturas() in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php on line 492
+[17-Jun-2014 08:22:51 America/Chicago] PHP Fatal error:  Call to undefined method vo_pagos_facturas_plan_pagos::set_id_pagos_facturas_plan_pagos() in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php on line 525
+[17-Jun-2014 08:24:29 America/Chicago] PHP Fatal error:  Call to undefined method vo_pagos_facturas_plan_pagos::set_id_pagos_facturas_plan_pagos() in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php on line 525
+[17-Jun-2014 08:25:07 America/Chicago] PHP Fatal error:  Call to undefined method vo_pagos_facturas_plan_pagos::set_id_pagos_facturas_plan_pagos() in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php on line 525
+[17-Jun-2014 08:26:55 America/Chicago] PHP Fatal error:  Call to undefined method vo_pagos_facturas_plan_pagos::set_id_pagos_facturas_plan_pagos() in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php on line 525
+[17-Jun-2014 10:07:53 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::search_detalle_plan_pagos_onewEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(17) : eval()'d code on line 1
+[17-Jun-2014 10:34:35 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php on line 535
+[17-Jun-2014 10:45:28 America/Chicago] PHP Fatal error:  Call to undefined function GetUser() in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php on line 535
+[17-Jun-2014 11:57:47 America/Chicago] PHP Fatal error:  Class 'con_pagos' not found in /home/amadaws/public_html/sysgdata/aplication/router/index.php(15) : eval()'d code on line 1
+[17-Jun-2014 11:58:43 America/Chicago] PHP Fatal error:  Class 'fac_pagos' not found in /home/amadaws/public_html/sysgdata/aplication/control/Creditos/con_pagos.php on line 25
+[17-Jun-2014 11:59:10 America/Chicago] PHP Fatal error:  Class 'fac_pagos' not found in /home/amadaws/public_html/sysgdata/aplication/control/Creditos/con_pagos.php on line 25
+[17-Jun-2014 13:23:07 America/Chicago] PHP Fatal error:  Call to undefined method vo_pagos_facturas_principal::get_clientes_datos_basicos_id() in /home/amadaws/public_html/sysgdata/aplication/facade/Creditos/fac_pagos.php on line 69
+[17-Jun-2014 13:39:39 America/Chicago] PHP Fatal error:  Call to undefined method vo_pagos_facturas_principal::fngetcliente() in /home/amadaws/public_html/sysgdata/aplication/facade/Creditos/fac_pagos.php on line 69
+[17-Jun-2014 14:01:31 America/Chicago] PHP Fatal error:  Call to undefined function fnGetDetalleCliente() in /home/amadaws/public_html/sysgdata/aplication/facade/Creditos/fac_pagos.php on line 185
+[17-Jun-2014 14:29:39 America/Chicago] PHP Fatal error:  Call to undefined method dao_usuarios::get_usuario() in /home/amadaws/public_html/sysgdata/aplication/facade/Creditos/fac_pagos.php on line 75
+[17-Jun-2014 14:30:05 America/Chicago] PHP Fatal error:  Call to undefined method dao_usuarios::get_usuario() in /home/amadaws/public_html/sysgdata/aplication/facade/Creditos/fac_pagos.php on line 75
+[17-Jun-2014 14:32:04 America/Chicago] PHP Fatal error:  Call to undefined method dao_usuarios::get_usuario() in /home/amadaws/public_html/sysgdata/aplication/facade/Creditos/fac_pagos.php on line 75
+[17-Jun-2014 14:33:42 America/Chicago] PHP Fatal error:  Call to undefined method dao_usuarios::get_usuario() in /home/amadaws/public_html/sysgdata/aplication/facade/Creditos/fac_pagos.php on line 75
+[17-Jun-2014 14:33:57 America/Chicago] PHP Fatal error:  Call to undefined method dao_usuarios::get_usuario() in /home/amadaws/public_html/sysgdata/aplication/facade/Creditos/fac_pagos.php on line 75
+[18-Jun-2014 10:20:40 America/Chicago] PHP Fatal error:  Call to undefined method vo_pagos_facturas_principal::get_clientes_datos_basicos_id() in /home/amadaws/public_html/sysgdata/aplication/facade/Creditos/fac_pagos.php on line 70
+[18-Jun-2014 10:33:29 America/Chicago] PHP Fatal error:  Call to undefined method con_pagos::searchrowsEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(17) : eval()'d code on line 1
+[18-Jun-2014 11:06:25 America/Chicago] PHP Fatal error:  Call to undefined method con_pagos::fngetclienteEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(17) : eval()'d code on line 1
+[18-Jun-2014 11:09:52 America/Chicago] PHP Parse error:  syntax error, unexpected T_VAR in /home/amadaws/public_html/sysgdata/aplication/facade/Creditos/fac_pagos.php on line 184
+[18-Jun-2014 11:09:53 America/Chicago] PHP Parse error:  syntax error, unexpected T_VAR in /home/amadaws/public_html/sysgdata/aplication/facade/Creditos/fac_pagos.php on line 184
+[18-Jun-2014 11:19:37 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amadaws/public_html/sysgdata/aplication/utils/utilidades.php on line 116
+[18-Jun-2014 11:22:38 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amadaws/public_html/sysgdata/aplication/utils/utilidades.php on line 116
+[18-Jun-2014 11:22:46 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amadaws/public_html/sysgdata/aplication/utils/utilidades.php on line 116
+[18-Jun-2014 11:25:22 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amadaws/public_html/sysgdata/aplication/utils/utilidades.php on line 116
+[18-Jun-2014 11:28:15 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amadaws/public_html/sysgdata/aplication/utils/utilidades.php on line 116
+[18-Jun-2014 11:28:24 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amadaws/public_html/sysgdata/aplication/utils/utilidades.php on line 116
+[18-Jun-2014 11:31:20 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amadaws/public_html/sysgdata/aplication/utils/utilidades.php on line 116
+[18-Jun-2014 11:32:16 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amadaws/public_html/sysgdata/aplication/utils/utilidades.php on line 116
+[18-Jun-2014 13:54:18 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 715
+[19-Jun-2014 14:03:58 America/Chicago] PHP Fatal error:  Call to undefined method vo_parametros::get_aumento_por_credito() in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 244
+[19-Jun-2014 15:17:17 America/Chicago] PHP Fatal error:  Call to a member function getid() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Creditos/fac_pagos.php on line 246
+[19-Jun-2014 15:18:11 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Creditos/fac_pagos.php on line 246
+[19-Jun-2014 15:19:57 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Creditos/fac_pagos.php on line 247
+[19-Jun-2014 15:36:20 America/Chicago] PHP Fatal error:  Call to undefined method dao_pagos_facturas_plan_pagos::set_id_pagos_facturas_principal() in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 1050
+[20-Jun-2014 10:47:09 America/Chicago] PHP Fatal error:  Call to undefined method vo_clientes_anticipos::valor() in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 734
+[20-Jun-2014 16:14:48 America/Chicago] PHP Fatal error:  Call to undefined method utilidades::response() in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php on line 563
+[20-Jun-2014 16:50:26 America/Chicago] PHP Fatal error:  Call to undefined method fac_gestion::search_sucursalesPublic() in /home/amadaws/public_html/sysgdata/aplication/control/Clientes/con_gestion.php on line 88
+[20-Jun-2014 16:50:56 America/Chicago] PHP Fatal error:  Call to undefined method fac_gestion::search_sucursalesPublic() in /home/amadaws/public_html/sysgdata/aplication/control/Clientes/con_gestion.php on line 88
+[24-Jun-2014 13:55:07 America/Chicago] PHP Fatal error:  Call to undefined method vo_clientes_anticipos::valor() in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php on line 277
+[24-Jun-2014 13:59:03 America/Chicago] PHP Fatal error:  Call to undefined method vo_clientes_anticipos::valor() in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php on line 277
+[25-Jun-2014 17:24:41 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/amadaws/public_html/sysgdata/aplication/facade/Creditos/fac_pagos.php on line 274
+[26-Jun-2014 11:54:31 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 281
+[26-Jun-2014 12:29:50 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::salvar_entidadEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(17) : eval()'d code on line 1
+[26-Jun-2014 12:42:49 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::salvar_entidadEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(17) : eval()'d code on line 1
+[27-Jun-2014 10:19:35 America/Chicago] PHP Fatal error:  Call to undefined function SetTrackPagos() in /home/amadaws/public_html/sysgdata/aplication/facade/Creditos/fac_pagos.php on line 318
+[27-Jun-2014 10:21:25 America/Chicago] PHP Fatal error:  Call to undefined function SetTrackPagos() in /home/amadaws/public_html/sysgdata/aplication/facade/Creditos/fac_pagos.php on line 318
+[27-Jun-2014 10:38:50 America/Chicago] PHP Fatal error:  Call to undefined method vo_pagos_facturas_principal::number_format() in /home/amadaws/public_html/sysgdata/aplication/facade/Creditos/fac_pagos.php on line 82
+[27-Jun-2014 10:39:07 America/Chicago] PHP Fatal error:  Call to undefined method vo_pagos_facturas_principal::number_format() in /home/amadaws/public_html/sysgdata/aplication/facade/Creditos/fac_pagos.php on line 82
+[27-Jun-2014 11:14:17 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/amadaws/public_html/sysgdata/aplication/facade/Creditos/fac_pagos.php on line 95
+[01-Jul-2014 08:52:39 America/Chicago] PHP Fatal error:  Unsupported operand types in /home/amadaws/public_html/sysgdata/aplication/facade/Creditos/fac_pagos.php on line 296
+[01-Jul-2014 11:25:12 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::validate_crudEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(44) : eval()'d code on line 1
+[01-Jul-2014 11:25:12 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::validate_crudEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(44) : eval()'d code on line 1
+[01-Jul-2014 11:25:18 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::validate_crudEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(44) : eval()'d code on line 1
+[01-Jul-2014 11:25:55 America/Chicago] PHP Fatal error:  Call to undefined method con_usuarios::validate_crudEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(44) : eval()'d code on line 1
+[01-Jul-2014 12:04:49 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::validate_crudEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(49) : eval()'d code on line 1
+[01-Jul-2014 12:04:50 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::validate_crudEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(49) : eval()'d code on line 1
+[01-Jul-2014 12:05:58 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::validate_crudEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(46) : eval()'d code on line 1
+[01-Jul-2014 12:05:58 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::validate_crudEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(46) : eval()'d code on line 1
+[01-Jul-2014 12:07:14 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::validate_crudEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(49) : eval()'d code on line 1
+[01-Jul-2014 12:07:15 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::validate_crudEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(49) : eval()'d code on line 1
+[01-Jul-2014 12:07:28 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::validate_crudEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(49) : eval()'d code on line 1
+[01-Jul-2014 12:07:30 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::validate_crudEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(49) : eval()'d code on line 1
+[01-Jul-2014 12:08:29 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::validate_crudEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(48) : eval()'d code on line 1
+[01-Jul-2014 12:08:30 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::validate_crudEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(48) : eval()'d code on line 1
+[01-Jul-2014 12:09:49 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::validate_crudEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(48) : eval()'d code on line 1
+[01-Jul-2014 12:09:50 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::validate_crudEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(48) : eval()'d code on line 1
+[01-Jul-2014 12:14:58 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::validate_crudEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(48) : eval()'d code on line 1
+[01-Jul-2014 12:14:59 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::validate_crudEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(48) : eval()'d code on line 1
+[01-Jul-2014 12:46:05 America/Chicago] PHP Fatal error:  Call to undefined method con_roles::validate_crudEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(46) : eval()'d code on line 1
+[01-Jul-2014 12:48:05 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::validate_crudEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(47) : eval()'d code on line 1
+[01-Jul-2014 12:48:06 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::validate_crudEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(47) : eval()'d code on line 1
+[02-Jul-2014 09:31:42 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception: ---> dao_productos_datos_basicos::select_rows ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre> 
+                  SELECT 
+               
+                 id,id_coleccion,referencia,imagen,valor,id_categoria,creado_por,fecha_creacion,modificado_por,fecha_modificacion,horma_id,badana,tacon_id,altura,estado FROM     productos_datos_basicos  WHERE 1=1  AND estado = 'A' ORDER BY referencia ASC LIMIT  , </pre>
+' in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_productos_datos_basicos.php:48
+Stack trace:
+#0 /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php(32): dao_productos_datos_basicos->select_rows(Object(vo_productos_datos_basicos), 'referencia', 'ASC', NULL, NULL) in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_productos_datos_basicos.php on line 48
+[02-Jul-2014 09:32:27 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception: ---> dao_productos_datos_basicos::select_rows ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre> 
+                  SELECT 
+               
+                 id,id_coleccion,referencia,imagen,valor,id_categoria,creado_por,fecha_creacion,modificado_por,fecha_modificacion,horma_id,badana,tacon_id,altura,estado FROM     productos_datos_basicos  WHERE 1=1  AND estado = 'A' ORDER BY referencia ASC LIMIT  , </pre>
+' in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_productos_datos_basicos.php:48
+Stack trace:
+#0 /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php(32): dao_productos_datos_basicos->select_rows(Object(vo_productos_datos_basicos), 'referencia', 'ASC', NULL, NULL) in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_productos_datos_basicos.php on line 48
+[02-Jul-2014 15:02:04 America/Chicago] PHP Fatal error:  Call to undefined function TraerDescripcionesBadanas() in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 435
+[02-Jul-2014 15:46:34 America/Chicago] PHP Parse error:  syntax error, unexpected '*' in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 439
+[02-Jul-2014 16:04:40 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 1174
+[02-Jul-2014 17:19:39 America/Chicago] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 491
+[03-Jul-2014 08:31:27 America/Chicago] PHP Parse error:  syntax error, unexpected '*' in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 471
+[03-Jul-2014 08:35:50 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 457
+[03-Jul-2014 08:35:51 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 457
+[03-Jul-2014 15:47:34 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 518
+[03-Jul-2014 15:47:35 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 518
+[03-Jul-2014 15:47:35 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 518
+[03-Jul-2014 15:47:52 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 518
+[03-Jul-2014 15:48:08 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 518
+[04-Jul-2014 12:47:14 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 514
+[07-Jul-2014 13:12:50 America/Chicago] PHP Parse error:  syntax error, unexpected '.', expecting ',' or ')' in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 136
+[07-Jul-2014 13:13:00 America/Chicago] PHP Parse error:  syntax error, unexpected '.', expecting ',' or ')' in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 136
+[07-Jul-2014 13:13:11 America/Chicago] PHP Parse error:  syntax error, unexpected '.', expecting ',' or ')' in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 136
+[07-Jul-2014 13:24:00 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 209
+[07-Jul-2014 15:37:16 America/Chicago] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 208
+[07-Jul-2014 16:14:39 America/Chicago] PHP Fatal error:  Call to undefined function length() in /home/amadaws/public_html/sysgdata/aplication/BD/clConexion.php on line 374
+[07-Jul-2014 16:14:59 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception: ---> dao_pedidos_datos_basicos::select_rows ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 3&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre> 
+                  SELECT 
+               
+                 id,facturas_datos_basicos_id,clientes_datos_basicos_id,numero_pedido,estado,fecha_terminado,creado_por,fecha_creacion,modificado_por,fecha_modificacion FROM     pedidos_datos_basicos  WHERE 1=1  AND UPPER(estado) IN ( (UPPER('E')), (UPPER('P')),,)</pre>
+' in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_pedidos_datos_basicos.php:51
+Stack trace:
+#0 /home/amadaws/public_html/sysgdata/aplication/facade/Produccion/fac_gestion.php(35): dao_pedidos_datos_basicos->select_rows(Object(vo_pedidos_datos_basicos), NULL, NULL, NULL, NULL)
+#1 /home/amada in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_pedidos_datos_basicos.php on line 51
+[07-Jul-2014 16:16:31 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception: ---> dao_pedidos_datos_basicos::select_rows ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 3&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre> 
+                  SELECT 
+               
+                 id,facturas_datos_basicos_id,clientes_datos_basicos_id,numero_pedido,estado,fecha_terminado,creado_por,fecha_creacion,modificado_por,fecha_modificacion FROM     pedidos_datos_basicos  WHERE 1=1  AND UPPER(estado) IN ( (UPPER('E')), (UPPER('P')),,)</pre>
+' in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_pedidos_datos_basicos.php:51
+Stack trace:
+#0 /home/amadaws/public_html/sysgdata/aplication/facade/Produccion/fac_gestion.php(35): dao_pedidos_datos_basicos->select_rows(Object(vo_pedidos_datos_basicos), NULL, NULL, NULL, NULL)
+#1 /home/amada in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_pedidos_datos_basicos.php on line 51
+[07-Jul-2014 16:17:11 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception: ---> dao_pedidos_datos_basicos::select_rows ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 3&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre> 
+                  SELECT 
+               
+                 id,facturas_datos_basicos_id,clientes_datos_basicos_id,numero_pedido,estado,fecha_terminado,creado_por,fecha_creacion,modificado_por,fecha_modificacion FROM     pedidos_datos_basicos  WHERE 1=1 ,)</pre>
+' in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_pedidos_datos_basicos.php:51
+Stack trace:
+#0 /home/amadaws/public_html/sysgdata/aplication/facade/Produccion/fac_gestion.php(35): dao_pedidos_datos_basicos->select_rows(Object(vo_pedidos_datos_basicos), NULL, NULL, NULL, NULL)
+#1 /home/amadaws/public_html/sysgdata/aplication/control/Producci in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_pedidos_datos_basicos.php on line 51
+[08-Jul-2014 09:55:03 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::search_detallesEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(115) : eval()'d code on line 1
+[08-Jul-2014 10:59:21 America/Chicago] PHP Fatal error:  Call to a member function get_nombre() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Produccion/fac_gestion.php on line 183
+[08-Jul-2014 16:24:42 America/Chicago] PHP Fatal error:  Call to undefined method dao_pedidos_datos_basicos::get_estado() in /home/amadaws/public_html/sysgdata/aplication/facade/Produccion/fac_gestion.php on line 134
+[08-Jul-2014 16:29:42 America/Chicago] PHP Fatal error:  Call to undefined method dao_pedidos_datos_basicos::get_estado() in /home/amadaws/public_html/sysgdata/aplication/facade/Produccion/fac_gestion.php on line 134
+[08-Jul-2014 17:13:16 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 367
+[08-Jul-2014 17:13:37 America/Chicago] PHP Fatal error:  Call to undefined method vo_productos_colores::set_descripcion() in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 356
+[09-Jul-2014 08:43:57 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Caught exception ---> dao_productos_colores_descripciones::insert_rows ---> Error: Ocurrio un error en la ejecuci&oacute;n de una consulta ---> <br/>Cannot add or update a child row: a foreign key constraint fails (`amadaws_sysgdata`.`productos_colores_descripciones`, CONSTRAINT `productos_colores_descripciones_ibfk_1` FOREIGN KEY (`color_id`) REFERENCES `productos_colores` (`id`) ON DELETE NO ACTION ON )&nbsp;<img src="themes/Default/images/warning.png" /><br/><br/><pre> INSERT INTO productos_colores_descripciones (  descripcion, creado_por, fecha_creacion ) VALUES( 'DOS',2,'2014-07-09 08:43:57' )</pre>
+' in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_productos_colores_descripciones.php:64
+Stack trace:
+#0 /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php(383): dao_productos_colores_descripciones->insert_rows(Object(vo_productos_colores_descripciones))
+#1 /home/amadaws/public_html/sysgdata/aplication/control/Productos in /home/amadaws/public_html/sysgdata/aplication/model/cl_dao/dao_productos_colores_descripciones.php on line 64
+[09-Jul-2014 08:43:58 America/Chicago] PHP Fatal error:  Call to a member function get_seguridad_roles_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Seguridad/fac_seguridad_roles.php on line 299
+[09-Jul-2014 08:54:52 America/Chicago] PHP Parse error:  syntax error, unexpected T_FOR in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 394
+[09-Jul-2014 08:58:18 America/Chicago] PHP Parse error:  syntax error, unexpected T_FOR in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 394
+[09-Jul-2014 09:03:26 America/Chicago] PHP Parse error:  syntax error, unexpected T_FOR in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_colores.php on line 394
+[09-Jul-2014 09:53:28 America/Chicago] PHP Fatal error:  Call to a member function get_seguridad_roles_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Seguridad/fac_seguridad_roles.php on line 299
+[09-Jul-2014 10:39:44 America/Chicago] PHP Fatal error:  Call to a member function get_seguridad_roles_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Seguridad/fac_seguridad_roles.php on line 299
+[09-Jul-2014 10:55:09 America/Chicago] PHP Fatal error:  Call to a member function get_seguridad_roles_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Seguridad/fac_seguridad_roles.php on line 299
+[09-Jul-2014 10:55:19 America/Chicago] PHP Fatal error:  Call to a member function get_seguridad_roles_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Seguridad/fac_seguridad_roles.php on line 299
+[09-Jul-2014 11:13:28 America/Chicago] PHP Fatal error:  Call to undefined method dao_productos_colores_descripciones_badanas::get_id_descripcion() in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 542
+[09-Jul-2014 16:24:17 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 512
+[09-Jul-2014 16:40:12 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 96
+[09-Jul-2014 16:40:13 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 96
+[09-Jul-2014 16:40:13 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 263
+[09-Jul-2014 16:40:13 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 263
+[09-Jul-2014 16:40:13 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 512
+[09-Jul-2014 17:01:24 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 263
+[09-Jul-2014 17:01:24 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 263
+[09-Jul-2014 17:02:26 America/Chicago] PHP Fatal error:  Call to undefined method vo_facturas_productos_detalles::get_aumento_por_credito() in /home/amadaws/public_html/sysgdata/aplication/facade/Creditos/fac_pagos.php on line 605
+[09-Jul-2014 17:09:53 America/Chicago] PHP Fatal error:  Call to undefined method vo_facturas_productos_detalles::get_aumento_por_credito() in /home/amadaws/public_html/sysgdata/aplication/facade/Creditos/fac_pagos.php on line 605
+[10-Jul-2014 08:15:16 America/Chicago] PHP Fatal error:  Call to undefined method vo_productos_datos_basicos::get_aumento_por_credito() in /home/amadaws/public_html/sysgdata/aplication/facade/Creditos/fac_pagos.php on line 600
+[10-Jul-2014 09:54:03 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::update_pedido_estado_terminadoEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(115) : eval()'d code on line 1
+[10-Jul-2014 09:54:35 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::update_pedido_estado_terminadoEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(115) : eval()'d code on line 1
+[10-Jul-2014 09:55:24 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::update_pedido_estado_terminadoEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(115) : eval()'d code on line 1
+[10-Jul-2014 10:34:08 America/Chicago] PHP Fatal error:  Call to undefined function dao_pagos_facturas_principal() in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 91
+[10-Jul-2014 10:43:29 America/Chicago] PHP Fatal error:  Call to undefined method vo_facturas_datos_basicos::get_aumento_credito() in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 88
+[10-Jul-2014 10:59:08 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::searchdatosrowsEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(115) : eval()'d code on line 1
+[10-Jul-2014 11:00:51 America/Chicago] PHP Fatal error:  Call to undefined method vo_facturas_productos_detalles::set_modificado_por() in /home/amadaws/public_html/sysgdata/aplication/facade/Produccion/fac_gestion.php on line 287
+[10-Jul-2014 11:21:39 America/Chicago] PHP Fatal error:  Call to undefined function Get_nombre_usuario() in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 1736
+[10-Jul-2014 11:22:00 America/Chicago] PHP Fatal error:  Call to undefined method fac_gestion::Get_nombre_usuario() in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 1736
+[10-Jul-2014 11:23:00 America/Chicago] PHP Fatal error:  Call to a member function get_usuario() on a non-object in /home/amadaws/public_html/sysgdata/aplication/utils/utilidades.php on line 573
+[11-Jul-2014 11:53:31 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::save_edit_referencia_itemEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(115) : eval()'d code on line 1
+[11-Jul-2014 14:12:14 America/Chicago] PHP Fatal error:  Call to a member function get_seguridad_roles_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Seguridad/fac_seguridad_roles.php on line 299
+[11-Jul-2014 14:13:25 America/Chicago] PHP Fatal error:  Call to a member function get_seguridad_roles_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Seguridad/fac_seguridad_roles.php on line 299
+[11-Jul-2014 14:43:45 America/Chicago] PHP Fatal error:  Call to a member function get_seguridad_roles_id() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Seguridad/fac_seguridad_roles.php on line 299
+[11-Jul-2014 15:01:08 America/Chicago] PHP Parse error:  syntax error, unexpected '*' in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 1182
+[11-Jul-2014 15:02:18 America/Chicago] PHP Parse error:  syntax error, unexpected '*' in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 1435
+[11-Jul-2014 15:59:50 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 1718
+[14-Jul-2014 09:27:18 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/amadaws/public_html/sysgdata/aplication/facade/Creditos/fac_pagos.php on line 407
+[14-Jul-2014 11:58:48 America/Chicago] PHP Fatal error:  Class 'con_gestion' not found in /home/amadaws/public_html/sysgdata/aplication/router/index.php(113) : eval()'d code on line 1
+[14-Jul-2014 13:21:31 America/Chicago] PHP Fatal error:  Class 'con_gestion' not found in /home/amadaws/public_html/sysgdata/aplication/router/index.php(113) : eval()'d code on line 1
+[14-Jul-2014 13:22:31 America/Chicago] PHP Fatal error:  Class 'fac_tacon' not found in /home/amadaws/public_html/sysgdata/aplication/control/Tesoreria/con_gestion.php on line 25
+[14-Jul-2014 13:23:41 America/Chicago] PHP Fatal error:  Call to undefined method vo_abonos_facturas::get_nombre() in /home/amadaws/public_html/sysgdata/aplication/facade/Tesoreria/fac_gestion.php on line 68
+[14-Jul-2014 13:24:05 America/Chicago] PHP Fatal error:  Call to undefined method vo_abonos_facturas::get_nombre() in /home/amadaws/public_html/sysgdata/aplication/facade/Tesoreria/fac_gestion.php on line 68
+[15-Jul-2014 10:22:30 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 170
+[15-Jul-2014 10:22:30 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 170
+[15-Jul-2014 10:22:30 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 170
+[15-Jul-2014 10:22:30 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 407
+[15-Jul-2014 10:22:30 America/Chicago] PHP Warning:  Unterminated comment starting line 411 in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 411
+[15-Jul-2014 10:22:30 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 417
+[15-Jul-2014 10:22:30 America/Chicago] PHP Warning:  Unterminated comment starting line 411 in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 411
+[15-Jul-2014 10:22:30 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 417
+[15-Jul-2014 11:13:46 America/Chicago] PHP Fatal error:  Call to undefined method vo_pedidos_flujo_procesos::set_pedidos_productos_detalles_id() in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 468
+[15-Jul-2014 11:40:29 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 1134
+[15-Jul-2014 11:40:35 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 1134
+[15-Jul-2014 11:40:46 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 1134
+[15-Jul-2014 11:41:20 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 1134
+[15-Jul-2014 18:18:21 America/Chicago] PHP Fatal error:  Call to undefined method fac_gestion::search_pedidos_terminadosPublic() in /home/amadaws/public_html/sysgdata/aplication/control/Produccion/con_gestion.php on line 76
+[15-Jul-2014 18:19:19 America/Chicago] PHP Fatal error:  Call to undefined method fac_gestion::search_pedidos_terminadosPublic() in /home/amadaws/public_html/sysgdata/aplication/control/Produccion/con_gestion.php on line 76
+[15-Jul-2014 18:19:28 America/Chicago] PHP Fatal error:  Call to undefined method fac_gestion::search_pedidos_terminadosPublic() in /home/amadaws/public_html/sysgdata/aplication/control/Produccion/con_gestion.php on line 76
+[16-Jul-2014 08:03:36 America/Chicago] PHP Fatal error:  Call to undefined method fac_gestion::search_pedidos_terminadosPublic() in /home/amadaws/public_html/sysgdata/aplication/control/Produccion/con_gestion.php on line 76
+[16-Jul-2014 08:03:44 America/Chicago] PHP Fatal error:  Call to undefined method fac_gestion::search_pedidos_terminadosPublic() in /home/amadaws/public_html/sysgdata/aplication/control/Produccion/con_gestion.php on line 76
+[16-Jul-2014 09:27:31 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING, expecting ']' in /home/amadaws/public_html/sysgdata/aplication/facade/Produccion/fac_gestion.php on line 819
+[16-Jul-2014 09:27:39 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING, expecting ']' in /home/amadaws/public_html/sysgdata/aplication/facade/Produccion/fac_gestion.php on line 819
+[16-Jul-2014 11:07:04 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/amadaws/public_html/sysgdata/aplication/facade/Produccion/fac_gestion.php on line 862
+[16-Jul-2014 11:07:11 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/amadaws/public_html/sysgdata/aplication/facade/Produccion/fac_gestion.php on line 862
+[16-Jul-2014 11:07:53 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/amadaws/public_html/sysgdata/aplication/facade/Produccion/fac_gestion.php on line 862
+[16-Jul-2014 11:08:24 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/amadaws/public_html/sysgdata/aplication/facade/Produccion/fac_gestion.php on line 862
+[16-Jul-2014 11:45:07 America/Chicago] PHP Fatal error:  Class 'con_gestion' not found in /home/amadaws/public_html/sysgdata/aplication/router/index.php(113) : eval()'d code on line 1
+[16-Jul-2014 11:46:12 America/Chicago] PHP Fatal error:  Class 'fac_gestion' not found in /home/amadaws/public_html/sysgdata/aplication/control/Inventarios/con_gestion.php on line 25
+[16-Jul-2014 11:47:41 America/Chicago] PHP Fatal error:  Class 'fac_gestion' not found in /home/amadaws/public_html/sysgdata/aplication/control/Inventarios/con_gestion.php on line 25
+[16-Jul-2014 11:48:26 America/Chicago] PHP Fatal error:  Class 'fac_gestion' not found in /home/amadaws/public_html/sysgdata/aplication/control/Inventarios/con_gestion.php on line 25
+[16-Jul-2014 13:52:35 America/Chicago] PHP Fatal error:  Call to undefined method fac_gestion::TraerTxtDescripcion() in /home/amadaws/public_html/sysgdata/aplication/facade/Inventarios/fac_gestion.php on line 72
+[16-Jul-2014 13:54:11 America/Chicago] PHP Fatal error:  Call to undefined method fac_gestion::TraerTxtDescripcion() in /home/amadaws/public_html/sysgdata/aplication/facade/Inventarios/fac_gestion.php on line 73
+[17-Jul-2014 14:48:19 America/Chicago] PHP Fatal error:  Call to undefined method fac_gestion::TraerColor() in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 566
+[17-Jul-2014 14:49:07 America/Chicago] PHP Fatal error:  Call to undefined method fac_gestion::TraerColor() in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 566
+[18-Jul-2014 10:13:17 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ']' in /home/amadaws/public_html/sysgdata/aplication/utils/utilidades.php on line 72
+[18-Jul-2014 13:47:15 America/Chicago] PHP Fatal error:  Call to undefined method utilidades::Get_Datos_Basicos() in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 2219
+[18-Jul-2014 13:47:27 America/Chicago] PHP Fatal error:  Call to undefined method utilidades::Get_Datos_Basicos() in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 2219
+[18-Jul-2014 13:50:07 America/Chicago] PHP Fatal error:  Call to undefined method utilidades::Get_Datos_Basicos() in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 2219
+[18-Jul-2014 13:50:43 America/Chicago] PHP Fatal error:  Call to undefined method utilidades::Get_Datos_Basicos() in /home/amadaws/public_html/sysgdata/aplication/facade/Facturas/fac_gestion.php on line 2219
+[18-Jul-2014 14:48:31 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/amadaws/public_html/sysgdata/aplication/facade/Productos/fac_gestion.php on line 597
+[18-Jul-2014 16:01:15 America/Chicago] PHP Fatal error:  Call to undefined method vo_inventarios_principal::set_nombre() in /home/amadaws/public_html/sysgdata/aplication/facade/Inventarios/fac_gestion.php on line 104
+[21-Jul-2014 14:25:08 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 271
+[21-Jul-2014 14:25:08 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/amadaws/public_html/sysgdata/aplication/utils/html2pdf_v4.03/templates_pdf.php on line 271
+[22-Jul-2014 16:19:16 America/Chicago] PHP Fatal error:  Call to a member function get_valor() on a non-object in /home/amadaws/public_html/sysgdata/aplication/utils/utilidadesSQL.php(26) : eval()'d code on line 1
+[22-Jul-2014 16:22:22 America/Chicago] PHP Fatal error:  Call to a member function get_valor() on a non-object in /home/amadaws/public_html/sysgdata/aplication/utils/utilidadesSQL.php(26) : eval()'d code on line 1
+[22-Jul-2014 16:48:33 America/Chicago] PHP Fatal error:  Call to a member function get_valor() on a non-object in /home/amadaws/public_html/sysgdata/aplication/utils/utilidadesSQL.php(26) : eval()'d code on line 1
+[23-Jul-2014 14:38:24 America/Chicago] PHP Fatal error:  Call to a member function get_direccion() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php on line 421
+[23-Jul-2014 14:38:33 America/Chicago] PHP Fatal error:  Call to a member function get_direccion() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php on line 421
+[01-Aug-2014 11:22:23 America/Chicago] PHP Fatal error:  Call to a member function get_Name() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php on line 432
+[01-Aug-2014 11:23:17 America/Chicago] PHP Fatal error:  Call to a member function get_Name() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php on line 432
+[01-Aug-2014 11:23:57 America/Chicago] PHP Fatal error:  Call to a member function get_Name() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php on line 432
+[01-Aug-2014 11:26:06 America/Chicago] PHP Fatal error:  Call to a member function get_Name() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php on line 432
+[01-Aug-2014 11:35:25 America/Chicago] PHP Fatal error:  Call to a member function get_Name() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php on line 432
+[01-Aug-2014 11:37:32 America/Chicago] PHP Fatal error:  Call to a member function get_Name() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php on line 432
+[01-Aug-2014 11:38:38 America/Chicago] PHP Fatal error:  Call to a member function get_Name() on a non-object in /home/amadaws/public_html/sysgdata/aplication/facade/Clientes/fac_gestion.php on line 433
+[01-Aug-2014 14:00:49 America/Chicago] PHP Fatal error:  Call to undefined method con_gestion::select_inventarios_bodegasEvent() in /home/amadaws/public_html/sysgdata/aplication/router/index.php(116) : eval()'d code on line 1

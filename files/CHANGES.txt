@@ -1,0 +1,6 @@
+[07-12-2014]
+pagos_facturas_plan_pagos
+pagos_facturas_principal
+abonos_facturas
+facturas_datos_productos_detalles
+facturas_datos_basicos
